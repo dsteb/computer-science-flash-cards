@@ -2,7 +2,7 @@ boto==2.40.0
 chardet==2.3.0
 click==6.7
 configparser==3.5.0
-cryptography==1.5
+cryptography==2.2.2
 enum34==1.1.6
 Flask==0.12
 future==0.15.2
@@ -27,3 +27,4 @@ six==1.10.0
 urllib3==1.15.1
 virtualenv==15.1.0
 Werkzeug==0.11.15
+gunicorn==19.8.1
